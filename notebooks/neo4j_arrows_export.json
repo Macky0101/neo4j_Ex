@@ -1,0 +1,1680 @@
+{
+  "nodes": [
+    {
+      "id": "customer_15362",
+      "labels": [
+        "Customer"
+      ],
+      "properties": {
+        "id": 15362,
+        "type": "Customer"
+      }
+    },
+    {
+      "id": "country_United Kingdom",
+      "labels": [
+        "Country"
+      ],
+      "properties": {
+        "name": "United Kingdom",
+        "type": "Country"
+      }
+    },
+    {
+      "id": "invoice_489437",
+      "labels": [
+        "Invoice"
+      ],
+      "properties": {
+        "id": 489437,
+        "date": "2009-12-01T09:08:00.000000000+00:00",
+        "type": "Invoice"
+      }
+    },
+    {
+      "id": "product_22111",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "22111",
+        "description": "SCOTTIE DOG HOT WATER BOTTLE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_22143",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "22143",
+        "description": "CHRISTMAS CRAFT HEART DECORATIONS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_22145",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "22145",
+        "description": "CHRISTMAS CRAFT HEART STOCKING",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_22130",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "22130",
+        "description": "PARTY CONE CHRISTMAS DECORATION",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21364",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21364",
+        "description": "PEACE SMALL WOOD LETTERS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21360",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21360",
+        "description": "JOY LARGE WOOD LETTERS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21351",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21351",
+        "description": "CINAMMON & ORANGE WREATH",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21352",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21352",
+        "description": "EUCALYPTUS & PINECONE  WREATH",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_35400",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "35400",
+        "description": "WOODEN BOX ADVENT CALENDAR",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_20695",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "20695",
+        "description": "FLORAL BLUE MONSTER",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_37370",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "37370",
+        "description": "RETRO COFFEE MUGS ASSORTED",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_10002",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "10002",
+        "description": "INFLATABLE POLITICAL GLOBE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_84507B",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84507B",
+        "description": "STRIPES DESIGN MONKEY DOLL",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_20703",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "20703",
+        "description": "BLUE PADDED SOFT MOBILE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21987",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21987",
+        "description": "PACK OF 6 SKULL PAPER CUPS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21989",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21989",
+        "description": "PACK OF 20 SKULL PAPER NAPKINS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_84970S",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84970S",
+        "description": "HANGING HEART ZINC T-LIGHT HOLDER",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_20971",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "20971",
+        "description": "PINK BLUE FELT CRAFT TRINKET BOX",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_22271",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "22271",
+        "description": "FELTCRAFT DOLL ROSIE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_22272",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "22272",
+        "description": "FELTCRAFT DOLL MARIA",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_22274",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "22274",
+        "description": "FELTCRAFT DOLL EMILY",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21912",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21912",
+        "description": "VINTAGE SNAKES & LADDERS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_22112",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "22112",
+        "description": "CHOCOLATE HOT WATER BOTTLE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "customer_18102",
+      "labels": [
+        "Customer"
+      ],
+      "properties": {
+        "id": 18102,
+        "type": "Customer"
+      }
+    },
+    {
+      "id": "invoice_489438",
+      "labels": [
+        "Invoice"
+      ],
+      "properties": {
+        "id": 489438,
+        "date": "2009-12-01T09:24:00.000000000+00:00",
+        "type": "Invoice"
+      }
+    },
+    {
+      "id": "product_21329",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21329",
+        "description": "DINOSAURS  WRITING SET",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21252",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21252",
+        "description": "SET OF MEADOW  FLOWER STICKERS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21100",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21100",
+        "description": "CHARLIE AND LOLA CHARLOTTE BAG",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21033",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21033",
+        "description": "JUMBO BAG CHARLIE AND LOLA TOYS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_20711",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "20711",
+        "description": "JUMBO BAG TOYS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21410",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21410",
+        "description": "COUNTRY COTTAGE  DOORSTOP GREEN",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_21411",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "21411",
+        "description": "GINGHAM HEART  DOORSTOP RED",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_84031A",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84031A",
+        "description": "CHARLIE+LOLA RED HOT WATER BOTTLE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_84031B",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84031B",
+        "description": "CHARLIE LOLA BLUE HOT WATER BOTTLE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_84032A",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84032A",
+        "description": "CHARLIE+LOLA PINK HOT WATER BOTTLE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_84032B",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84032B",
+        "description": "CHARLIE + LOLA RED HOT WATER BOTTLE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_84519A",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84519A",
+        "description": "TOMATO CHARLIE+LOLA COASTER SET",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_84519B",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84519B",
+        "description": "CARROT CHARLIE+LOLA COASTER SET",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_85132A",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "85132A",
+        "description": "CHARLIE + LOLA BISCUITS TINS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_85132C",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "85132C",
+        "description": "CHARLIE AND LOLA FIGURES TINS",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_85183A",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "85183A",
+        "description": "CHARLIE & LOLA WASTEPAPER BIN BLUE",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_85183B",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "85183B",
+        "description": "CHARLIE & LOLA WASTEPAPER BIN FLORA",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "invoice_490059",
+      "labels": [
+        "Invoice"
+      ],
+      "properties": {
+        "id": 490059,
+        "date": "2009-12-03T13:30:00.000000000+00:00",
+        "type": "Invoice"
+      }
+    },
+    {
+      "id": "product_85014A",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "85014A",
+        "description": "BLACK/BLUE DOTS RUFFLED UMBRELLA",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_85014B",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "85014B",
+        "description": "RED/WHITE DOTS RUFFLED UMBRELLA",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_85014C",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "85014C",
+        "description": "BLUE/BROWN DOTS RUFFLED UMBRELLA",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_85014D",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "85014D",
+        "description": "PINK/BROWN DOTS RUFFLED UMBRELLA",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_15056BL",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "15056BL",
+        "description": "EDWARDIAN PARASOL BLACK",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_15056N",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "15056N",
+        "description": "EDWARDIAN PARASOL NATURAL",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_15056P",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "15056P",
+        "description": "EDWARDIAN PARASOL PINK",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_20679",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "20679",
+        "description": "EDWARDIAN PARASOL RED",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "product_15059A",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "15059A",
+        "description": "ENGLISH ROSE EDWARDIAN PARASOL",
+        "type": "Product"
+      }
+    },
+    {
+      "id": "invoice_490061",
+      "labels": [
+        "Invoice"
+      ],
+      "properties": {
+        "id": 490061,
+        "date": "2009-12-03T13:42:00.000000000+00:00",
+        "type": "Invoice"
+      }
+    },
+    {
+      "id": "product_84912B",
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "stockCode": "84912B",
+        "description": "GREEN ROSE WASHBAG",
+        "type": "Product"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_22111",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_22111",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_22143",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_22143",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_22145",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_22145",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_22130",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_22130",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_21364",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_21364",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_21360",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_21360",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_21351",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_21351",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_21352",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_21352",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_35400",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_35400",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_20695",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_20695",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_37370",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_37370",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_10002",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_10002",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_84507B",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_84507B",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_20703",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_20703",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_21987",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_21987",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_21989",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_21989",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_84970S",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_84970S",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_20971",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_20971",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_22271",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_22271",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_22272",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_22272",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_22274",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_22274",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_21912",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_21912",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_15362",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_15362_to_invoice_489437",
+      "type": "PLACED",
+      "startNode": "customer_15362",
+      "endNode": "invoice_489437",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489437_to_product_22112",
+      "type": "CONTAINS",
+      "startNode": "invoice_489437",
+      "endNode": "product_22112",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_21329",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_21329",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_21252",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_21252",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_21100",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_21100",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_21033",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_21033",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_20711",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_20711",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_21410",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_21410",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_21411",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_21411",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_84031A",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_84031A",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_84031B",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_84031B",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_84032A",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_84032A",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_84032B",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_84032B",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_84519A",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_84519A",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_84519B",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_84519B",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_85132A",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_85132A",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_85132C",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_85132C",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_85183A",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_85183A",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_489438",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_489438",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_489438_to_product_85183B",
+      "type": "CONTAINS",
+      "startNode": "invoice_489438",
+      "endNode": "product_85183B",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_85014A",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_85014A",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_85014B",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_85014B",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_85014C",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_85014C",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_85014D",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_85014D",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_15056BL",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_15056BL",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_15056N",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_15056N",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_15056P",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_15056P",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_20679",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_20679",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490059",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490059",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490059_to_product_15059A",
+      "type": "CONTAINS",
+      "startNode": "invoice_490059",
+      "endNode": "product_15059A",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_country_United Kingdom",
+      "type": "FROM_COUNTRY",
+      "startNode": "customer_18102",
+      "endNode": "country_United Kingdom",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_customer_18102_to_invoice_490061",
+      "type": "PLACED",
+      "startNode": "customer_18102",
+      "endNode": "invoice_490061",
+      "properties": {}
+    },
+    {
+      "id": "rel_from_invoice_490061_to_product_84912B",
+      "type": "CONTAINS",
+      "startNode": "invoice_490061",
+      "endNode": "product_84912B",
+      "properties": {}
+    }
+  ]
+}
